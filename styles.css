@@ -144,6 +144,7 @@ img {
 }
 .nav__logo {
   color: var(--second-color);
+  font-size: 1.2rem;
 }
 .nav__toggle {
   color: var(--second-color);
@@ -286,6 +287,19 @@ img {
 .skills__ux {
   width: 85%;
 }
+.skills__c {
+  width: 75%;
+}
+.skills__cpp {
+  width: 60%;
+}
+.skills__react {
+  width: 50%;
+}
+.skills__sql {
+  width: 70%;
+}
+
 .skills__img {
   border-radius: 0.5rem;
 }
